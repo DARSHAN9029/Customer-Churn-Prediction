@@ -28,17 +28,19 @@ git clone https://github.com/DARSHAN9029/Customer-Churn-Prediction.git
 ```
 ---
 
-Install dependencies:
+2. Install dependencies:
 
 ```bash
 pip install -r requirements.txt
 Run the Streamlit app:
 ```
 ---
-
+3. Run via streamlit
 ```bash
 streamlit run app.py
 ```
+
+---
 
 📊 Dataset Features
 CreditScore
