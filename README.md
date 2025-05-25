@@ -25,15 +25,20 @@ This project uses an Artificial Neural Network (ANN) to predict whether a custom
 1. Clone the repository:
 ```bash
 git clone https://github.com/DARSHAN9029/Customer-Churn-Prediction.git
+```
+---
 
 Install dependencies:
 
-bash
+```bash
 pip install -r requirements.txt
 Run the Streamlit app:
+```
+---
 
-bash
+```bash
 streamlit run app.py
+```
 
 📊 Dataset Features
 CreditScore
