@@ -43,6 +43,7 @@ streamlit run app.py
 ---
 
 📊 Dataset Features
+
 CreditScore
 
 Gender
